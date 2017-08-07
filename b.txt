@@ -1,0 +1,11 @@
+ - Bat dong bo
+ - Bat dong bo ko return
+ - Truyen vao callback de handle ket qua tra ve
+ - try catch ko hoat dong voi bdb
+ - Callback thuong co tham so err
+ - Sinh ra callback hell
+ - Tac vu nao la bdb - db
+ - Trong chuong trinh node uu tien su dung bdb
+ 
+ https://www.youtube.com/watch?v=8aGhZQkoFbQ
+ 
